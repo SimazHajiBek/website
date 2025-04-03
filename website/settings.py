@@ -101,7 +101,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'website',  # تأكد أن الاسم مطابق لقاعدة البيانات
         'USER': 'root',     # تأكد أن المستخدم صحيح
-        'PASSWORD': '',  # ضع كلمة المرور الصحيحة
+        'PASSWORD': 'asd@123',  # ضع كلمة المرور الصحيحة
         'HOST': 'localhost',  # أو '127.0.0.1' إذا لزم الأمر
         'PORT': '3306',
     }
